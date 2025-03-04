@@ -1,0 +1,49 @@
+*{
+  font-family: sans-serif;
+}
+  .container {
+    width: auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  #task-input {
+    flex: 1;
+  }
+  
+  #task-list {
+    margin-top: 20px;
+    width: 200px;
+    color: red;
+
+  }
+
+  .container-1 {
+    width: auto;
+    padding: 20px;
+    background-color: yellow;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  #add-task-btn{
+    color: red;
+    background-color: yellow;
+    width: auto;
+    height: auto;
+    border-width: 1px;
+  }
+  .form-control{
+    background-color: yellow;
+    width: 200px;
+    border: solid black;
+    border-width: 1px;
+  }
+  .clear{
+  text-align: right;
+  }
+  .result{
+    text-align: center;
+  }
